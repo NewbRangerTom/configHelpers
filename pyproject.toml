@@ -4,8 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "configReaders"
-version = "25.7.1"
+version = "0.1.0"
 description = "Helper functions for reading keys from JSON and config files"
+keywords = ["config", "configparser", "json", "helpers"]
 readme = "README.md"
 requires-python = ">=3.8"
 authors = [
