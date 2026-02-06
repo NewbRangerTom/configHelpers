@@ -33,6 +33,7 @@ print(DB['KEYS']['api_key'])
 
 
 -- config (.cfg) example:
+
     [keys]
     api_key1 = key_string1
     api_key2 = key_string2
